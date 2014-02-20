@@ -1,0 +1,14 @@
+{
+  "name": "component-has-input-placeholder",
+  "description": "`true` if the browser supports placeholder for the input element.",
+  "version": "1.0.0",
+  "keywords": [
+    "has",
+    "input",
+    "placeholder",
+    "?"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
